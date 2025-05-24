@@ -1,9 +1,0 @@
----
-name: Swift
-client_libraries:
-- <a href="https://github.com/dongri/OAuthSwift">OAuthSwift</a>
-- <a href="https://github.com/p2/OAuth2">p2 OAuth2</a>
-- <a href="https://github.com/trivago/Heimdallr.swift">Heimdallr</a>
-- <a href="https://github.com/openid/AppAuth-iOS">AppAuth for iOS</a>
-- <a href="https://github.com/brokenhandsio/vapor-oauth">Vapor OAuth - an OAuth Provider library for Vapor servers</a>
-...
